@@ -1,20 +1,17 @@
 <template>
-  <div class="details pages">
+  <div class="pages">
 
   </div>
 </template>
 
 <script>
 export default {
-  data() {
-    return {
-        
-    }
-  },
-
+    
 }
 </script>
 
 <style lang="scss">
 
 </style>
+
+
