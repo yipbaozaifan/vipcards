@@ -1,21 +1,21 @@
-export const CardsDetail = {
+export default {
     1: {
       image: '',
       price: 500,
-      title: '',
+      title: '全车极净除污套餐',
       intro:'',
       release: '12个月',
       include: [
         {
-          project: '',
+          project: '蜡水洗车 15次',
           price: 450,
         }
       ]
     },
     2: {
       image: '',
-      price: 500,
-      title: '',
+      price: 50,
+      title: '保养卡（机油）',
       intro:'',
       release: '12个月',
       include: [
@@ -27,8 +27,8 @@ export const CardsDetail = {
     },
     3: {
         image: '',
-        price: 500,
-        title: '',
+        price: 300,
+        title: '10次洗车卡',
         intro:'',
         release: '12个月',
         include: [
@@ -40,8 +40,8 @@ export const CardsDetail = {
     },
     4: {
         image: '',
-        price: 500,
-        title: '',
+        price: 680,
+        title: '打蜡卡',
         intro:'',
         release: '12个月',
         include: [
@@ -54,7 +54,7 @@ export const CardsDetail = {
     5: {
         image: '',
         price: 500,
-        title: '',
+        title: '超值黄金卡（充值卡）',
         intro:'',
         release: '12个月',
         include: [
@@ -66,8 +66,8 @@ export const CardsDetail = {
     },
     6: {
         image: '',
-        price: 500,
-        title: '',
+        price: 1000,
+        title: '尊贵铂金卡（充值卡）',
         intro:'',
         release: '12个月',
         include: [
@@ -79,8 +79,8 @@ export const CardsDetail = {
     },
     7: {
         image: '',
-        price: 500,
-        title: '',
+        price: 2000,
+        title: '至尊黑金卡（充值卡）',
         intro:'',
         release: '12个月',
         include: [
@@ -92,8 +92,8 @@ export const CardsDetail = {
     },
     8: {
         image: '',
-        price: 500,
-        title: '',
+        price: 2000,
+        title: '洗车年卡',
         intro:'',
         release: '12个月',
         include: [
@@ -105,8 +105,8 @@ export const CardsDetail = {
     },
     9: {
         image: '',
-        price: 500,
-        title: '',
+        price: 1880,
+        title: '尊享车身卡',
         intro:'',
         release: '12个月',
         include: [
